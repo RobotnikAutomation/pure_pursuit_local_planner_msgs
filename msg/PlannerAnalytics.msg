@@ -1,0 +1,12 @@
+float64 robot_x
+float64 robot_y
+float64 robot_theta
+float64 ref_x
+float64 ref_y
+float64 ref_theta
+float64 LA
+float64 vel_lin
+float64 vel_ang
+float64 dest_x
+float64 dest_y
+float64 dest_theta
